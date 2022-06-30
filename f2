@@ -1,0 +1,13 @@
+ hi
+ i worked on f1 feature and got sucesss
+ again i am working on feature f2 
+  the process i first create remote repo and clone to to local repo 
+  at sametime create develop branch too in remote repo
+  then i came to local and checkout develop branch
+  to work on fetures by usin git checout develop command
+  then creat feature branch by usin git branc feature/f1
+  then work on there
+  then same git add 
+  git commit -m
+  git push upstream
+  then goto remote  create pull request and merge from feature branch to develop 
